@@ -74,8 +74,7 @@ Enter a column: 2
 # Future Updates
 
 * Update planned at a later time that includes error handling and refactoring
-
-# Version History
+<br />
 * 0.1
     * Initial Release
 
