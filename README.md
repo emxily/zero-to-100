@@ -43,7 +43,29 @@ Before you begin, ensure you have met the following requirements:
 ### Example Output
 ```java .\main.java```
 ```
+Player1, please enter your name: player1
 
+Enter game board dimensions (minimum 5x5)
+Enter number of rows: 5
+Enter number of columns: 5
+
+*       *       *       *       *
+*       *       *       *       *
+*       *       *       *       *
+*       *       *       *       *
+*       *       *       *       *
+
+Sum Remaining:                          159
+Spaces Remaining:                       25
+Highest Value Remaining:                9
+
+player1's Score:                        0
+CPU1's Score:                   0
+CPU2's Score:                   0
+Enter row and column of space you want to capture
+Enter a row: 3
+Enter a column: 2
+. . .
 ```
 
 
@@ -51,7 +73,7 @@ Before you begin, ensure you have met the following requirements:
 
 # Future Updates
 
-* Update planned at a later time
+* Update planned at a later time that includes error handling and refactoring
 
 # Version History
 *0.1
